@@ -1,3 +1,8 @@
+# THIS DASHBOARD IS DEPRECATED.
+
+It is still provided in order to support older robots, but if you're looking for the latest
+Dashboard, you probably want this repository: https://github.com/MINDS-i/Dashboard
+
 # MINDS-i Dashboard
 
 Dashboard for communicating with and configuring MINDS-i ground and air drones.
